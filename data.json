@@ -1,0 +1,253 @@
+{  "task":[
+     {
+        "id":1,
+        "task_title": "Design Homepage",
+         "description": "Create the initial design for the homepage.",
+         "assign_date": "2024-06-01",
+         "due_date": "2024-06-05",
+         "status": "InProgress",
+          "comments":[],
+         "priority": "urgent"
+     },
+     {
+        "id":2,
+        "task_title": "Fix Login Bug",
+         "description": "Resolve the issue with user login.",
+         "assign_date": "2024-06-02",
+         "due_date": "2024-06-03",
+         "status": "Todo",
+
+         "priorit": "within one day"
+     },
+     {
+        "id":3,
+        "task_title": "Write Unit Tests",
+         "description": "Add unit tests for the new features.",
+         "assign_date": "2024-06-03",
+         "due_date": "2024-06-07",
+         "status": "InDevReview",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":4,
+        "task_title": "Update Documentation",
+         "description": "Update the project documentation to reflect recent changes.",
+         "assign_date": "2024-06-04",
+         "due_date": "2024-06-10",
+         "status": "Todo",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":4,
+        "task_title": "Optimize Database",
+         "description": "Improve database performance.",
+         "assign_date": "2024-06-05",
+         "due_date": "2024-06-12",
+         "status": "InProgress",
+          "comments":[],
+         "priority": "within one day"
+     },
+     {
+        "id":6,
+        "task_title": "Client Meeting",
+         "description": "Discuss project requirements with the client.",
+         "assign_date": "2024-06-06",
+         "due_date": "2024-06-06",
+         "status": "Done",
+          "comments":[],
+         "priority": "urgent"
+     },
+     {
+        "id":7,
+        "task_title": "Code Review",
+         "description": "Review code for the latest merge request.",
+         "assign_date": "2024-06-07",
+         "due_date": "2024-06-08",
+         "status": "InDevReview",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":8,
+        "task_title": "Deploy to Production",
+         "description": "Deploy the latest build to the production environment.",
+         "assign_date": "2024-06-08",
+         "due_date": "2024-06-09",
+         "status": "Todo",
+          "comments":[],
+         "priority": "urgent"
+     },
+     {
+        "id":9,
+        "task_title": "Design Feedback",
+         "description": "Provide feedback on the new UI designs.",
+         "assign_date": "2024-06-09",
+         "due_date": "2024-06-11",
+         "status": "InProgress",
+          "comments":[],
+         "priority": "within one day"
+     },
+     {
+        "id":10,
+        "task_title": "Setup CI/CD",
+         "description": "Configure continuous integration and delivery pipelines.",
+         "assign_date": "2024-06-10",
+         "due_date": "2024-06-14",
+         "status": "Todo",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":11,
+        "task_title": "Bug Triage",
+         "description": "Prioritize and assign newly reported bugs.",
+         "assign_date": "2024-06-11",
+         "due_date": "2024-06-12",
+         "status": "InProgress",
+          "comments":[],
+         "priority": "within one day"
+     },
+     {
+        "id":12,
+        "task_title": "Write Blog Post",
+         "description": "Draft a blog post about the new features.",
+         "assign_date": "2024-06-12",
+         "due_date": "2024-06-15",
+         "status": "Todo",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":13,
+        "task_title": "Performance Testing",
+         "description": "Conduct performance tests on the application.",
+         "assign_date": "2024-06-13",
+         "due_date": "2024-06-16",
+         "status": "InDevReview",
+          "comments":[],
+         "priority": "urgent"
+     },
+     {
+        "id":14,
+        "task_title": "Security Audit",
+         "description": "Perform a security audit of the application.",
+         "assign_date": "2024-06-14",
+         "due_date": "2024-06-18",
+         "status": "Todo",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":15,
+        "task_title": "User Training",
+         "description": "Conduct training sessions for new users.",
+         "assign_date": "2024-06-15",
+         "due_date": "2024-06-17",
+         "status": "InProgress",
+          "comments":[],
+         "priority": "within one day"
+     },
+     {
+        "id":16,
+        "task_title": "Data Migration",
+         "description": "Migrate data from the old system to the new one.",
+         "assign_date": "2024-06-16",
+         "due_date": "2024-06-20",
+         "status": "Todo",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":17,
+        "task_title": "Update Privacy Policy",
+         "description": "Revise the privacy policy in line with new regulations.",
+         "assign_date": "2024-06-17",
+         "due_date": "2024-06-19",
+         "status": "InProgress",
+          "comments":[],
+         "priority": "urgent"
+     },
+     {
+        "id":18,
+        "task_title": "Customer Support",
+         "description": "Respond to customer support tickets.",
+         "assign_date": "2024-06-18",
+         "due_date": "2024-06-18",
+         "status": "Done",
+          "comments":[],
+         "priority": "within one day"
+     },
+     {
+        "id":19,
+        "task_title": "Feature Planning",
+         "description": "Plan the next set of features for development.",
+         "assign_date": "2024-06-19",
+         "due_date": "2024-06-21",
+         "status": "InDevReview",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":20,
+        "task_title": "Integrate Payment Gateway",
+         "description": "Add integration with a new payment gateway.",
+         "assign_date": "2024-06-20",
+         "due_date": "2024-06-23",
+         "status": "Todo",
+          "comments":[],
+         "priority": "urgent"
+     },
+     {
+        "id":21,
+        "task_title": "Refactor Codebase",
+         "description": "Refactor the codebase to improve maintainability.",
+         "assign_date": "2024-06-21",
+         "due_date": "2024-06-25",
+         "status": "InProgress",
+          "comments":[],
+         "priority": "within one day"
+     },
+     {
+        "id":22,
+        "task_title": "Market Analysis",
+         "description": "Analyze market trends and report findings.",
+         "assign_date": "2024-06-22",
+         "due_date": "2024-06-27",
+         "status": "Todo",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":23,
+        "task_title": "Server Maintenance",
+         "description": "Perform routine maintenance on servers.",
+         "assign_date": "2024-06-23",
+         "due_date": "2024-06-24",
+         "status": "Done",
+          "comments":[],
+         "priority": "urgent"
+     },
+     {
+        "id":25,
+        "task_title": "UX Research",
+         "description": "Conduct user experience research for the new feature.",
+         "assign_date": "2024-06-24",
+         "due_date": "2024-06-28",
+         "status": "InDevReview",
+          "comments":[],
+         "priority": "after review"
+     },
+     {
+        "id":26,
+        "task_title": "Content Strategy",
+         "description": "Develop a content strategy for the next quarter.",
+         "assign_date": "2024-06-25",
+         "due_date": "2024-06-30",
+         "status": "Todo",
+          "comments":[],
+         "priority": "within one day"
+     }
+ ]
+}

@@ -16,13 +16,8 @@
          "assign_date": "2024-06-02",
          "due_date": "2024-06-03",
          "status": "Todo",
-<<<<<<< HEAD
-
-         "priority": "within one day"
-=======
          "comments":[],
          "priorit": "within one day"
->>>>>>> 2b5091043fc298fd4251c21927545abf776146ac
      },
      {
         "id":3,
